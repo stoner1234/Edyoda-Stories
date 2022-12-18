@@ -1,0 +1,149 @@
+body {
+    margin: 0px;
+}
+
+.head_nav {
+    /* border: 1px solid red; */
+    padding: 16px 78px;
+    background-color: #fff;
+}
+
+.head_nav ul {
+    /* border: 1px solid red; */
+    background-color: white;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.head_nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.head_nav ul li #text_1 {
+    width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.head_nav ul li #text_2 {
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.head_nav ul li i {
+    padding-left: 8px;
+}
+
+/* xx */
+
+.post_sec {
+    /* border: 1px solid red; */
+    width: 70%;
+    margin: 10px auto 0px;
+}
+
+.post_sec h2 {
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+}
+
+.filter {
+    /* border: 1px solid red; */
+}
+
+.filter li {
+    display: inline-block;
+
+}
+
+.filter li i {
+    margin-left: -10px;
+}
+
+.filter li p {
+    font-size: 16px;
+}
+
+
+.button .butn_item button {
+    Padding: 6px 14px;
+    Width: auto;
+    color: #0084ff;
+    Border-radius: 15px;
+    Border: 1px solid #0084ff;
+    Margin: 5px;
+    Cursor: pointer;
+    background-color: transparent;
+}
+
+
+.button .butn_item button:hover {
+    color: #fff;
+    background-color: #0084ff;
+}
+
+/* xxx */
+
+
+
+.main_box {
+    /* border: 2px solid red; */
+    width: 72%;
+    margin: 18px auto 0px;
+}
+
+.inner_box {
+    /* border: 2px solid darkgreen; */
+    width: 31%;
+    display: inline-block;
+    margin: 8px;
+    padding: 0px;
+    box-shadow: 1px 1px 5px 1px lightgray;
+}
+
+.inner_img {
+    width: 100%;
+    height: 176px;
+}
+
+
+.heading_div i {
+    color: #83bc2e;
+    font-size: 20px;
+}
+
+.heading_div h2 {
+    display: inline-block;
+}
+
+.heading_div {
+    padding: 8px;
+    margin-top: 15px;
+}
+
+/* .inner_box:hover i {
+    color: black;
+} */
+
+/* .inner_box:hover h2 {
+    color: #83bc2e;
+} */
+
+
+.button_box {
+    background-color: #83bc2e;
+    color: white;
+    padding: 15px 20px;
+    border: 2px solid grey;
+}
+
+.button_box:hover {
+    background-color: white;
+    color: black;
+}
